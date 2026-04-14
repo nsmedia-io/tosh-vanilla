@@ -1,6 +1,6 @@
 # Black Bird Consulting
 
-Public marketing site for **Black Bird Consulting USA, LLC** — life coaching and creative business strategy.
+Public marketing site for **Black Bird Consulting LLC** — life coaching and creative business strategy.
 
 Static site built with **Vike + React 19 + Tailwind v4**, pre-rendered to HTML and deployed on Cloudflare Pages.
 

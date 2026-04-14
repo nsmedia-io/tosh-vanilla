@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Black Bird Consulting",
-  legalName: "Black Bird Consulting USA, LLC",
+  legalName: "Black Bird Consulting LLC",
   title: "Black Bird Consulting | Life Coaching & Creative Business Strategy",
   description:
     "Life coaching and creative business strategy for ambitious individuals and visionary entrepreneurs. Build a life and business that feels deeply fulfilling and strategically successful.",
