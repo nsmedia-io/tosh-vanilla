@@ -70,7 +70,7 @@ function Story() {
             My approach is holistic yet results-driven: we address mindset and
             inner growth while building the tangible strategies, offers, and
             operations that create real momentum. Clients often describe our
-            work together as transformative — they leave sessions feeling
+            work together as transformative. They leave sessions feeling
             lighter, clearer, and empowered to take bold, aligned action.
           </p>
           <p className="border-l-2 border-accent-primary pl-6 font-serif text-xl italic text-text-heading">
@@ -89,7 +89,7 @@ function Values() {
   const values = [
     {
       title: "Holistic",
-      desc: "We address mindset and inner growth alongside systems, offers, and operations — because business problems are rarely just business problems.",
+      desc: "We address mindset and inner growth alongside systems, offers, and operations, because business problems are rarely just business problems.",
     },
     {
       title: "Results-Driven",
@@ -97,7 +97,7 @@ function Values() {
     },
     {
       title: "Transformative",
-      desc: "Clients leave sessions lighter, clearer, and empowered to take bold, aligned action. That's the standard — not a bonus.",
+      desc: "Clients leave sessions lighter, clearer, and empowered to take bold, aligned action. That's the standard, not a bonus.",
     },
     {
       title: "Confidential",
@@ -164,7 +164,7 @@ export default function Page() {
       <PageHero
         eyebrow="About"
         title="A partner for ambitious, creative lives."
-        subtitle="Black Bird Consulting is the work of Natasha — a life coach and creative business strategist helping clients build lives and businesses that feel both deeply fulfilling and strategically successful."
+        subtitle="Black Bird Consulting is the work of Natasha, a life coach and creative business strategist helping clients build lives and businesses that feel both deeply fulfilling and strategically successful."
       />
       <Story />
       <Divider />

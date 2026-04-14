@@ -70,7 +70,7 @@ export default function Hero() {
                 </blockquote>
               </div>
               <div className="text-[11px] tracking-[0.2em] uppercase text-accent-muted">
-                — Natasha · Founder
+                Natasha · Founder
               </div>
             </div>
           </div>

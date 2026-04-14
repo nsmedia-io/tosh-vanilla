@@ -8,7 +8,7 @@ function Pillars() {
       number: "01",
       title: "Clarity",
       description:
-        "We help you cut through noise and overthinking to name what you actually want — for your life, your career, and the business only you can build.",
+        "We help you cut through noise and overthinking to name what you actually want for your life, your career, and the business only you can build.",
     },
     {
       number: "02",
@@ -20,7 +20,7 @@ function Pillars() {
       number: "03",
       title: "Accountability",
       description:
-        "A dedicated partner in the work. We hold the standard, keep you honest with yourself, and show up for the messy middle — not just the highlight reel.",
+        "A dedicated partner in the work. We hold the standard, keep you honest with yourself, and show up for the messy middle, not just the highlight reel.",
     },
   ];
 
@@ -74,7 +74,7 @@ function ServicesOverview() {
     {
       eyebrow: "Media Production",
       title: "Original, In-House Media",
-      desc: "Dynamic media content produced in-house — video, photography, social, and campaigns. We never outsource this foundation, ensuring consistency and strategic alignment every step of the way.",
+      desc: "Dynamic media content produced in-house: video, photography, social, and campaigns. We never outsource this foundation, ensuring consistency and strategic alignment every step of the way.",
     },
     {
       eyebrow: "Life Coaching",
@@ -149,7 +149,7 @@ function Philosophy() {
         <blockquote className="mt-6 font-serif text-3xl leading-snug text-text-heading md:text-4xl lg:text-5xl">
           "If you're tired of playing small, feeling stuck in overthinking, or
           ready to stop compromising between{" "}
-          <span className="italic text-accent-deep">passion and profit</span> —
+          <span className="italic text-accent-deep">passion and profit</span>,
           let's create a chapter that lights you up."
         </blockquote>
         <div className="mt-10 flex items-center justify-center gap-4">

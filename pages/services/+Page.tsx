@@ -19,7 +19,7 @@ const SERVICES: Service[] = [
     lede: "Transform your company, product, or personal brand into a recognized and respected name within your target market.",
     paragraphs: [
       "Using a powerful, multi-channel brand development strategy, we build strong visibility, credibility, and emotional connection with your ideal audience.",
-      "This isn't logo-and-call-it-a-day work. It's a research-driven process that grounds your brand in the market you're actually in — and positions you to lead it.",
+      "This isn't logo-and-call-it-a-day work. It's a research-driven process that grounds your brand in the market you're actually in, and positions you to lead it.",
     ],
     bullets: [
       "Market research & positioning",
@@ -36,8 +36,8 @@ const SERVICES: Service[] = [
     title: "Media Production",
     lede: "Strong brand development begins with a compelling online presence.",
     paragraphs: [
-      "We create dynamic, original media content in-house — from video and photography to social media content and campaigns. We never outsource this critical foundation of your brand.",
-      "That means the highest level of quality, consistency, and strategic alignment every step of the way — and a brand presence that actually matches the business you're building.",
+      "We create dynamic, original media content in-house: video, photography, social content, and campaigns. We never outsource this critical foundation of your brand.",
+      "That means the highest level of quality, consistency, and strategic alignment every step of the way, and a brand presence that actually matches the business you're building.",
     ],
     bullets: [
       "Video production & direction",
@@ -64,7 +64,7 @@ const SERVICES: Service[] = [
       "Action plans with real accountability",
     ],
     bestFor:
-      "Individuals navigating transitions — new chapters, bigger businesses, or simply a life that actually fits.",
+      "Individuals navigating transitions: new chapters, bigger businesses, or simply a life that actually fits.",
   },
 ];
 
@@ -142,7 +142,7 @@ function Process() {
     {
       step: "03",
       title: "Proposal & agreement",
-      desc: "You receive a clear proposal outlining scope, deliverables, timeline, and investment — no surprises.",
+      desc: "You receive a clear proposal outlining scope, deliverables, timeline, and investment. No surprises.",
     },
     {
       step: "04",
@@ -211,7 +211,7 @@ export default function Page() {
       <PageHero
         eyebrow="Services"
         title="Three practices. One partner."
-        subtitle="Brand Development, Media Production, and Life Coaching — delivered by one strategist who sees them as inseparable parts of the same work."
+        subtitle="Brand Development, Media Production, and Life Coaching, delivered by one strategist who sees them as inseparable parts of the same work."
       />
 
       {SERVICES.map((service, i) => (

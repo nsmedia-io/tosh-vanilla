@@ -21,7 +21,7 @@ const SERVICE_OPTIONS = [
   "Brand Development & Research",
   "Media Production",
   "Creative Business Strategy",
-  "Not sure yet — help me figure it out",
+  "Not sure yet, help me figure it out",
 ];
 
 const TIMELINE_OPTIONS = [
@@ -275,7 +275,7 @@ export default function IntakeForm() {
             onChange={handleChange}
             required
             className={`${inputClasses} resize-none`}
-            placeholder="Briefly describe where you are in your life or business today — the wins, the stuck points, or the transition you're navigating."
+            placeholder="Briefly describe where you are in your life or business today. The wins, the stuck points, or the transition you're navigating."
           />
         </div>
 
@@ -324,7 +324,7 @@ export default function IntakeForm() {
 
         {submitStatus === "success" && (
           <p className="mt-6 text-sm text-accent-deep">
-            Thank you — your intake was received. Natasha will be in touch within
+            Thank you. Your intake was received and Natasha will be in touch within
             2 business days.
           </p>
         )}

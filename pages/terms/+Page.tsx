@@ -175,8 +175,8 @@ export default function Page() {
               8. Intellectual Property
             </h2>
             <p className="mt-4">
-              All content on this Site — including text, graphics, logos,
-              images, media, and the overall design — is owned by Black Bird
+              All content on this Site, including text, graphics, logos,
+              images, media, and the overall design, is owned by Black Bird
               Consulting or its licensors and is protected by copyright,
               trademark, and other applicable intellectual property laws. You
               may not copy, reproduce, republish, distribute, modify, or
